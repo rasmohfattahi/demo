@@ -1,0 +1,10 @@
+/*
+!src
+!.circleci
+!.gitignore
+!pom.xml
+!Dockerfile
+**/resources/*.jks
+**/resources/*.pub
+**/resources/application-dev.yml
+!README.md
